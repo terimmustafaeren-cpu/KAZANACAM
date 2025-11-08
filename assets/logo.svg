@@ -1,9 +1,1 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="160" height="160" viewBox="0 0 120 120">
-  <defs>
-    <linearGradient id="g" x1="0" x2="1">
-      <stop offset="0" stop-color="#06b6d4"/><stop offset="1" stop-color="#0ea5a0"/>
-    </linearGradient>
-  </defs>
-  <rect width="120" height="120" rx="20" fill="#071022"/>
-  <text x="60" y="75" font-family="Inter, Arial" font-size="42" font-weight="700" text-anchor="middle" fill="#06b6d4">KZ</text>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="160" height="160" viewBox="0 0 120 120"><rect width="120" height="120" rx="20" fill="#e9f6ff"/><text x="60" y="75" font-family="Inter, Arial" font-size="42" font-weight="700" text-anchor="middle" fill="#06b6d4">KZ</text></svg>
